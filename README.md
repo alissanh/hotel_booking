@@ -1,2 +1,3 @@
-# dsci-100-project: Water Quality
+# dsci-100-project: Hotel Bookings
+
 
